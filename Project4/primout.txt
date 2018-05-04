@@ -1,0 +1,7 @@
+Here is format of the list: 
+(sourceVertex - destinationVertex): edgeWeight
+(3-1):5
+(5-2):3
+(5-3):2
+(6-4):1
+(6-5):4
